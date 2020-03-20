@@ -1,3 +1,27 @@
+=============================================
+Nama Projek 	= spp
+Nama Database = spp
+Run Projek    = http://localhost/spp/
+File SQL      = spp.sql (Ada didalam Projek)
+=============================================
+
+=============================================
+Login Admin/Petugas
+*Admin
+Username = admin
+Password = admin
+
+*Petugas
+Username = petugas
+Password = petugas
+
+Login Siswa
+NIS			 = 14190054
+Password = 14190054
+=============================================
+
+
+
 ###################
 What is CodeIgniter
 ###################
